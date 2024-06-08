@@ -10,7 +10,7 @@ This project aims to predict the monthly closing stock price of Yes Bank using h
 
 * **Let's Begin:**
 
-* 1. Know Your Data.
+  1. Know Your Data.
   2. Understanding Your Variables.
   3. Data Wrangling.
   4. Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables.
